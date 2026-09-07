@@ -50,7 +50,8 @@ SQL | Python | Data Cleaning | Data Analysis | Power BI | DAX | Data Visualizati
 ## Key Skills Demonstrated
 SQL | Python | Data Cleaning | Data Analysis | Power BI | DAX | Data Visualization | Business Analytics
 # ShopEase E-Commerce Sales Analytics Dashboard preview
-<img width="1322" height="747" alt="ShopEase_ECommerce_Sales_Analytics" src="https://github.com/user-attachments/assets/046d24e7-cce0-4157-81b4-6c2159f34047" />
+<img width="1322" height="742" alt="Screenshot 2026-09-07 152843" src="https://github.com/user-attachments/assets/351f7072-88b2-4d6e-94f4-3da51d817640" />
+
 
 
 
